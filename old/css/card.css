@@ -43,7 +43,6 @@ body {
 .profile-name::after {
 	content: '';
 	display: block;
-	width: 2em;
 	height: 1px;
 	background: #5bcbf0;
 	margin: .5em auto .65em;
